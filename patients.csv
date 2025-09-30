@@ -1,0 +1,81 @@
+patient_id,first_name,last_name,sex,age,city,primary_payer
+1001,Elijah,Rodriguez,M,27,Smyrna,BlueCross
+1002,Abigail,Lopez,F,36,Decatur,Medicaid
+1003,James,Martin,M,56,Decatur,Self-Pay
+1004,Mason,Moore,F,19,Alpharetta,BlueCross
+1005,Sophia,Rodriguez,F,46,Sandy Springs,UnitedHealthcare
+1006,Elijah,Brown,F,65,Sandy Springs,BlueCross
+1007,Henry,Brown,F,13,Roswell,UnitedHealthcare
+1008,Mason,Smith,M,45,Marietta,Medicaid
+1009,Mason,Garcia,F,46,Atlanta,UnitedHealthcare
+1010,Emma,Hernandez,M,56,Decatur,BlueCross
+1011,Sophia,Davis,M,19,Sandy Springs,Medicare
+1012,Liam,Martinez,M,18,Roswell,Medicare
+1013,Olivia,Davis,M,51,Duluth,Medicare
+1014,Mia,Martinez,F,47,Roswell,Medicare
+1015,Ava,Rodriguez,M,46,Decatur,Aetna
+1016,Olivia,Gonzalez,M,48,Decatur,BlueCross
+1017,Aiden,Johnson,M,29,Roswell,UnitedHealthcare
+1018,Mia,Smith,F,46,Atlanta,Medicare
+1019,Mia,Taylor,F,47,Smyrna,UnitedHealthcare
+1020,Benjamin,Garcia,F,29,Decatur,UnitedHealthcare
+1021,Isabella,Brown,F,75,Roswell,Medicare
+1022,Harper,Gonzalez,M,50,Sandy Springs,UnitedHealthcare
+1023,James,Rodriguez,M,20,Roswell,UnitedHealthcare
+1024,James,Brown,F,53,Marietta,BlueCross
+1025,Henry,Smith,M,24,Smyrna,BlueCross
+1026,Mia,Brown,M,56,Duluth,Medicare
+1027,Abigail,Garcia,M,62,Atlanta,UnitedHealthcare
+1028,Liam,Thomas,F,27,Alpharetta,BlueCross
+1029,Noah,Anderson,F,59,Duluth,UnitedHealthcare
+1030,Henry,Brown,M,49,Smyrna,Aetna
+1031,Elijah,Smith,F,56,Smyrna,BlueCross
+1032,Lucas,Garcia,F,76,Smyrna,Medicare
+1033,Elijah,Anderson,F,37,Duluth,Medicare
+1034,Evelyn,Davis,F,28,Sandy Springs,BlueCross
+1035,Emma,Martinez,F,25,Smyrna,Medicare
+1036,Amelia,Thomas,M,27,Roswell,BlueCross
+1037,Evelyn,Thomas,F,40,Duluth,Self-Pay
+1038,Lucas,Hernandez,M,48,Alpharetta,BlueCross
+1039,Olivia,Wilson,M,46,Smyrna,UnitedHealthcare
+1040,Abigail,Martin,F,56,Roswell,BlueCross
+1041,James,Davis,M,42,Sandy Springs,UnitedHealthcare
+1042,Elijah,Moore,M,68,Marietta,UnitedHealthcare
+1043,Mia,Lee,M,37,Sandy Springs,Self-Pay
+1044,Sophia,Jones,F,90,Alpharetta,UnitedHealthcare
+1045,James,Garcia,F,53,Smyrna,Self-Pay
+1046,Liam,Davis,M,26,Alpharetta,Aetna
+1047,Amelia,Wilson,F,22,Duluth,Medicaid
+1048,Benjamin,Thomas,F,50,Decatur,Medicare
+1049,Emma,Lopez,F,37,Smyrna,Medicare
+1050,Evelyn,Jones,F,54,Decatur,Medicare
+1051,Sophia,Wilson,M,50,Roswell,Medicare
+1052,Emma,Davis,M,40,Marietta,BlueCross
+1053,Olivia,Martin,F,26,Atlanta,Medicare
+1054,Ava,Johnson,F,14,Alpharetta,Medicaid
+1055,Isabella,Hernandez,M,33,Sandy Springs,Aetna
+1056,Emma,Wilson,M,57,Marietta,Medicare
+1057,Evelyn,Miller,F,45,Smyrna,Aetna
+1058,Mia,Gonzalez,M,19,Decatur,Medicaid
+1059,Olivia,Gonzalez,F,45,Sandy Springs,Medicare
+1060,Isabella,Lee,F,48,Decatur,BlueCross
+1061,Emma,Lopez,M,26,Duluth,BlueCross
+1062,Amelia,Davis,M,44,Decatur,Aetna
+1063,Harper,Smith,F,43,Duluth,BlueCross
+1064,James,Smith,F,21,Roswell,Aetna
+1065,Sophia,Lee,M,48,Sandy Springs,Medicaid
+1066,Amelia,Wilson,F,52,Sandy Springs,Medicare
+1067,Sophia,Martinez,M,61,Atlanta,BlueCross
+1068,Harper,Brown,F,60,Smyrna,Aetna
+1069,Ethan,Davis,M,17,Duluth,Self-Pay
+1070,Evelyn,Miller,M,25,Atlanta,UnitedHealthcare
+1071,James,Rodriguez,M,51,Decatur,UnitedHealthcare
+1072,Ethan,Martinez,F,51,Decatur,Aetna
+1073,Lucas,Garcia,F,51,Atlanta,UnitedHealthcare
+1074,James,Smith,M,90,Sandy Springs,Aetna
+1075,Ethan,Martin,F,52,Decatur,Aetna
+1076,Aiden,Hernandez,M,62,Alpharetta,UnitedHealthcare
+1077,Elijah,Gonzalez,M,59,Roswell,BlueCross
+1078,Lucas,Thomas,F,53,Roswell,BlueCross
+1079,Aiden,Martinez,F,36,Alpharetta,Medicare
+1080,Mia,Lee,M,55,Atlanta,Aetna

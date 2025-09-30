@@ -1,0 +1,403 @@
+visit_id,patient_id,icd10_code,diagnosis_description,diagnosis_rank
+20001,1041,M54.5,Low back pain,1
+20001,1041,R51.9,"Headache, unspecified",2
+20002,1006,E78.5,"Hyperlipidemia, unspecified",1
+20002,1006,M54.5,Low back pain,2
+20003,1025,N39.0,"Urinary tract infection, site not specified",1
+20003,1025,F41.1,Generalized anxiety disorder,2
+20004,1013,E11.9,Type 2 diabetes mellitus without complications,1
+20004,1013,J45.909,"Unspecified asthma, uncomplicated",2
+20005,1008,E78.5,"Hyperlipidemia, unspecified",1
+20006,1021,K21.9,GERD without esophagitis,1
+20006,1021,F41.1,Generalized anxiety disorder,2
+20007,1025,J45.909,"Unspecified asthma, uncomplicated",1
+20007,1025,M54.5,Low back pain,2
+20008,1079,K21.9,GERD without esophagitis,1
+20009,1068,I10,Essential (primary) hypertension,1
+20009,1068,Z00.00,General adult exam without abnormal findings,2
+20010,1045,E78.5,"Hyperlipidemia, unspecified",1
+20011,1060,I10,Essential (primary) hypertension,1
+20011,1060,K21.9,GERD without esophagitis,2
+20012,1012,K21.9,GERD without esophagitis,1
+20012,1012,F41.1,Generalized anxiety disorder,2
+20012,1012,E11.9,Type 2 diabetes mellitus without complications,3
+20013,1013,N39.0,"Urinary tract infection, site not specified",1
+20014,1031,R51.9,"Headache, unspecified",1
+20014,1031,I10,Essential (primary) hypertension,2
+20015,1078,E78.5,"Hyperlipidemia, unspecified",1
+20015,1078,I10,Essential (primary) hypertension,2
+20016,1020,R51.9,"Headache, unspecified",1
+20016,1020,F41.1,Generalized anxiety disorder,2
+20016,1020,K21.9,GERD without esophagitis,3
+20017,1018,Z00.00,General adult exam without abnormal findings,1
+20018,1060,M54.5,Low back pain,1
+20018,1060,I10,Essential (primary) hypertension,2
+20019,1006,E11.9,Type 2 diabetes mellitus without complications,1
+20020,1043,M54.5,Low back pain,1
+20021,1002,F41.1,Generalized anxiety disorder,1
+20022,1060,I10,Essential (primary) hypertension,1
+20022,1060,M54.5,Low back pain,2
+20022,1060,Z00.00,General adult exam without abnormal findings,3
+20023,1031,E78.5,"Hyperlipidemia, unspecified",1
+20023,1031,F41.1,Generalized anxiety disorder,2
+20024,1034,N39.0,"Urinary tract infection, site not specified",1
+20024,1034,K21.9,GERD without esophagitis,2
+20025,1010,J45.909,"Unspecified asthma, uncomplicated",1
+20025,1010,K21.9,GERD without esophagitis,2
+20025,1010,R51.9,"Headache, unspecified",3
+20026,1002,M54.5,Low back pain,1
+20027,1011,F41.1,Generalized anxiety disorder,1
+20028,1031,I10,Essential (primary) hypertension,1
+20029,1056,Z00.00,General adult exam without abnormal findings,1
+20030,1079,J45.909,"Unspecified asthma, uncomplicated",1
+20031,1073,R51.9,"Headache, unspecified",1
+20032,1009,M54.5,Low back pain,1
+20033,1021,J45.909,"Unspecified asthma, uncomplicated",1
+20034,1062,N39.0,"Urinary tract infection, site not specified",1
+20035,1080,E78.5,"Hyperlipidemia, unspecified",1
+20036,1004,F41.1,Generalized anxiety disorder,1
+20036,1004,R51.9,"Headache, unspecified",2
+20036,1004,M54.5,Low back pain,3
+20037,1004,K21.9,GERD without esophagitis,1
+20037,1004,E11.9,Type 2 diabetes mellitus without complications,2
+20038,1040,M54.5,Low back pain,1
+20038,1040,E11.9,Type 2 diabetes mellitus without complications,2
+20038,1040,K21.9,GERD without esophagitis,3
+20039,1017,E78.5,"Hyperlipidemia, unspecified",1
+20040,1052,F41.1,Generalized anxiety disorder,1
+20041,1052,I10,Essential (primary) hypertension,1
+20041,1052,M54.5,Low back pain,2
+20042,1036,Z00.00,General adult exam without abnormal findings,1
+20043,1038,K21.9,GERD without esophagitis,1
+20044,1050,M54.5,Low back pain,1
+20045,1063,N39.0,"Urinary tract infection, site not specified",1
+20046,1063,E78.5,"Hyperlipidemia, unspecified",1
+20047,1062,N39.0,"Urinary tract infection, site not specified",1
+20048,1027,J45.909,"Unspecified asthma, uncomplicated",1
+20048,1027,F41.1,Generalized anxiety disorder,2
+20049,1014,J45.909,"Unspecified asthma, uncomplicated",1
+20050,1071,M54.5,Low back pain,1
+20051,1005,R51.9,"Headache, unspecified",1
+20051,1005,Z00.00,General adult exam without abnormal findings,2
+20052,1002,F41.1,Generalized anxiety disorder,1
+20053,1062,Z00.00,General adult exam without abnormal findings,1
+20054,1021,E78.5,"Hyperlipidemia, unspecified",1
+20054,1021,Z00.00,General adult exam without abnormal findings,2
+20055,1079,K21.9,GERD without esophagitis,1
+20056,1021,M54.5,Low back pain,1
+20057,1010,J45.909,"Unspecified asthma, uncomplicated",1
+20058,1058,R51.9,"Headache, unspecified",1
+20059,1039,N39.0,"Urinary tract infection, site not specified",1
+20060,1005,I10,Essential (primary) hypertension,1
+20060,1005,E11.9,Type 2 diabetes mellitus without complications,2
+20061,1065,I10,Essential (primary) hypertension,1
+20062,1013,J45.909,"Unspecified asthma, uncomplicated",1
+20063,1053,J45.909,"Unspecified asthma, uncomplicated",1
+20064,1045,E78.5,"Hyperlipidemia, unspecified",1
+20065,1032,Z00.00,General adult exam without abnormal findings,1
+20065,1032,I10,Essential (primary) hypertension,2
+20066,1036,E78.5,"Hyperlipidemia, unspecified",1
+20067,1060,E78.5,"Hyperlipidemia, unspecified",1
+20068,1011,Z00.00,General adult exam without abnormal findings,1
+20069,1063,N39.0,"Urinary tract infection, site not specified",1
+20070,1021,R51.9,"Headache, unspecified",1
+20071,1052,F41.1,Generalized anxiety disorder,1
+20071,1052,R51.9,"Headache, unspecified",2
+20072,1026,E11.9,Type 2 diabetes mellitus without complications,1
+20073,1068,I10,Essential (primary) hypertension,1
+20074,1052,R51.9,"Headache, unspecified",1
+20075,1052,F41.1,Generalized anxiety disorder,1
+20075,1052,K21.9,GERD without esophagitis,2
+20076,1029,I10,Essential (primary) hypertension,1
+20077,1042,F41.1,Generalized anxiety disorder,1
+20077,1042,E78.5,"Hyperlipidemia, unspecified",2
+20078,1021,J45.909,"Unspecified asthma, uncomplicated",1
+20078,1021,N39.0,"Urinary tract infection, site not specified",2
+20079,1042,E11.9,Type 2 diabetes mellitus without complications,1
+20079,1042,F41.1,Generalized anxiety disorder,2
+20080,1013,R51.9,"Headache, unspecified",1
+20081,1064,J45.909,"Unspecified asthma, uncomplicated",1
+20082,1017,R51.9,"Headache, unspecified",1
+20082,1017,I10,Essential (primary) hypertension,2
+20083,1009,F41.1,Generalized anxiety disorder,1
+20083,1009,R51.9,"Headache, unspecified",2
+20083,1009,M54.5,Low back pain,3
+20084,1041,J45.909,"Unspecified asthma, uncomplicated",1
+20084,1041,K21.9,GERD without esophagitis,2
+20085,1060,J45.909,"Unspecified asthma, uncomplicated",1
+20086,1048,R51.9,"Headache, unspecified",1
+20087,1010,R51.9,"Headache, unspecified",1
+20088,1058,E11.9,Type 2 diabetes mellitus without complications,1
+20088,1058,K21.9,GERD without esophagitis,2
+20089,1060,N39.0,"Urinary tract infection, site not specified",1
+20090,1028,E11.9,Type 2 diabetes mellitus without complications,1
+20091,1075,I10,Essential (primary) hypertension,1
+20091,1075,K21.9,GERD without esophagitis,2
+20092,1034,F41.1,Generalized anxiety disorder,1
+20093,1008,M54.5,Low back pain,1
+20093,1008,E11.9,Type 2 diabetes mellitus without complications,2
+20094,1059,M54.5,Low back pain,1
+20095,1072,Z00.00,General adult exam without abnormal findings,1
+20096,1049,I10,Essential (primary) hypertension,1
+20097,1079,I10,Essential (primary) hypertension,1
+20097,1079,N39.0,"Urinary tract infection, site not specified",2
+20098,1017,I10,Essential (primary) hypertension,1
+20099,1060,R51.9,"Headache, unspecified",1
+20100,1045,J45.909,"Unspecified asthma, uncomplicated",1
+20100,1045,Z00.00,General adult exam without abnormal findings,2
+20100,1045,N39.0,"Urinary tract infection, site not specified",3
+20101,1069,R51.9,"Headache, unspecified",1
+20102,1032,J45.909,"Unspecified asthma, uncomplicated",1
+20103,1044,F41.1,Generalized anxiety disorder,1
+20104,1065,R51.9,"Headache, unspecified",1
+20105,1008,Z00.00,General adult exam without abnormal findings,1
+20105,1008,E78.5,"Hyperlipidemia, unspecified",2
+20106,1077,M54.5,Low back pain,1
+20107,1072,R51.9,"Headache, unspecified",1
+20108,1043,M54.5,Low back pain,1
+20109,1001,F41.1,Generalized anxiety disorder,1
+20109,1001,E78.5,"Hyperlipidemia, unspecified",2
+20110,1024,K21.9,GERD without esophagitis,1
+20111,1024,N39.0,"Urinary tract infection, site not specified",1
+20112,1017,R51.9,"Headache, unspecified",1
+20113,1005,N39.0,"Urinary tract infection, site not specified",1
+20114,1020,I10,Essential (primary) hypertension,1
+20115,1021,M54.5,Low back pain,1
+20116,1058,M54.5,Low back pain,1
+20116,1058,I10,Essential (primary) hypertension,2
+20117,1031,K21.9,GERD without esophagitis,1
+20118,1011,E11.9,Type 2 diabetes mellitus without complications,1
+20118,1011,R51.9,"Headache, unspecified",2
+20118,1011,M54.5,Low back pain,3
+20119,1052,Z00.00,General adult exam without abnormal findings,1
+20119,1052,M54.5,Low back pain,2
+20119,1052,E11.9,Type 2 diabetes mellitus without complications,3
+20120,1015,I10,Essential (primary) hypertension,1
+20121,1007,E11.9,Type 2 diabetes mellitus without complications,1
+20122,1028,M54.5,Low back pain,1
+20123,1051,I10,Essential (primary) hypertension,1
+20123,1051,E11.9,Type 2 diabetes mellitus without complications,2
+20124,1058,K21.9,GERD without esophagitis,1
+20125,1005,I10,Essential (primary) hypertension,1
+20126,1005,R51.9,"Headache, unspecified",1
+20127,1008,M54.5,Low back pain,1
+20127,1008,F41.1,Generalized anxiety disorder,2
+20128,1064,N39.0,"Urinary tract infection, site not specified",1
+20128,1064,M54.5,Low back pain,2
+20129,1010,R51.9,"Headache, unspecified",1
+20130,1038,J45.909,"Unspecified asthma, uncomplicated",1
+20130,1038,N39.0,"Urinary tract infection, site not specified",2
+20131,1008,M54.5,Low back pain,1
+20132,1025,N39.0,"Urinary tract infection, site not specified",1
+20133,1073,E78.5,"Hyperlipidemia, unspecified",1
+20133,1073,M54.5,Low back pain,2
+20134,1066,I10,Essential (primary) hypertension,1
+20135,1079,I10,Essential (primary) hypertension,1
+20136,1067,E78.5,"Hyperlipidemia, unspecified",1
+20137,1049,K21.9,GERD without esophagitis,1
+20137,1049,E78.5,"Hyperlipidemia, unspecified",2
+20138,1068,E78.5,"Hyperlipidemia, unspecified",1
+20138,1068,N39.0,"Urinary tract infection, site not specified",2
+20139,1078,E11.9,Type 2 diabetes mellitus without complications,1
+20139,1078,I10,Essential (primary) hypertension,2
+20140,1041,E11.9,Type 2 diabetes mellitus without complications,1
+20140,1041,E78.5,"Hyperlipidemia, unspecified",2
+20141,1062,K21.9,GERD without esophagitis,1
+20142,1010,I10,Essential (primary) hypertension,1
+20143,1036,M54.5,Low back pain,1
+20144,1012,M54.5,Low back pain,1
+20145,1002,M54.5,Low back pain,1
+20146,1013,R51.9,"Headache, unspecified",1
+20146,1013,N39.0,"Urinary tract infection, site not specified",2
+20146,1013,J45.909,"Unspecified asthma, uncomplicated",3
+20147,1053,E78.5,"Hyperlipidemia, unspecified",1
+20148,1016,J45.909,"Unspecified asthma, uncomplicated",1
+20149,1032,F41.1,Generalized anxiety disorder,1
+20150,1032,N39.0,"Urinary tract infection, site not specified",1
+20151,1015,M54.5,Low back pain,1
+20151,1015,I10,Essential (primary) hypertension,2
+20151,1015,N39.0,"Urinary tract infection, site not specified",3
+20152,1017,R51.9,"Headache, unspecified",1
+20153,1040,I10,Essential (primary) hypertension,1
+20154,1018,E11.9,Type 2 diabetes mellitus without complications,1
+20154,1018,R51.9,"Headache, unspecified",2
+20155,1055,E11.9,Type 2 diabetes mellitus without complications,1
+20156,1073,I10,Essential (primary) hypertension,1
+20157,1059,M54.5,Low back pain,1
+20158,1022,J45.909,"Unspecified asthma, uncomplicated",1
+20159,1030,E78.5,"Hyperlipidemia, unspecified",1
+20159,1030,N39.0,"Urinary tract infection, site not specified",2
+20159,1030,R51.9,"Headache, unspecified",3
+20160,1044,M54.5,Low back pain,1
+20160,1044,E78.5,"Hyperlipidemia, unspecified",2
+20161,1032,E11.9,Type 2 diabetes mellitus without complications,1
+20162,1051,J45.909,"Unspecified asthma, uncomplicated",1
+20162,1051,E78.5,"Hyperlipidemia, unspecified",2
+20163,1046,E11.9,Type 2 diabetes mellitus without complications,1
+20164,1032,E78.5,"Hyperlipidemia, unspecified",1
+20165,1012,F41.1,Generalized anxiety disorder,1
+20166,1047,N39.0,"Urinary tract infection, site not specified",1
+20167,1018,F41.1,Generalized anxiety disorder,1
+20168,1021,E78.5,"Hyperlipidemia, unspecified",1
+20168,1021,R51.9,"Headache, unspecified",2
+20169,1013,N39.0,"Urinary tract infection, site not specified",1
+20169,1013,J45.909,"Unspecified asthma, uncomplicated",2
+20169,1013,M54.5,Low back pain,3
+20170,1021,F41.1,Generalized anxiety disorder,1
+20171,1008,M54.5,Low back pain,1
+20172,1046,E11.9,Type 2 diabetes mellitus without complications,1
+20173,1007,Z00.00,General adult exam without abnormal findings,1
+20174,1023,R51.9,"Headache, unspecified",1
+20175,1075,E11.9,Type 2 diabetes mellitus without complications,1
+20176,1022,K21.9,GERD without esophagitis,1
+20176,1022,E11.9,Type 2 diabetes mellitus without complications,2
+20177,1022,E11.9,Type 2 diabetes mellitus without complications,1
+20178,1029,Z00.00,General adult exam without abnormal findings,1
+20179,1013,N39.0,"Urinary tract infection, site not specified",1
+20180,1002,R51.9,"Headache, unspecified",1
+20181,1029,R51.9,"Headache, unspecified",1
+20182,1079,J45.909,"Unspecified asthma, uncomplicated",1
+20182,1079,E11.9,Type 2 diabetes mellitus without complications,2
+20183,1052,R51.9,"Headache, unspecified",1
+20184,1027,I10,Essential (primary) hypertension,1
+20184,1027,J45.909,"Unspecified asthma, uncomplicated",2
+20185,1050,I10,Essential (primary) hypertension,1
+20186,1079,Z00.00,General adult exam without abnormal findings,1
+20187,1023,I10,Essential (primary) hypertension,1
+20188,1044,M54.5,Low back pain,1
+20188,1044,E78.5,"Hyperlipidemia, unspecified",2
+20189,1077,I10,Essential (primary) hypertension,1
+20190,1022,Z00.00,General adult exam without abnormal findings,1
+20190,1022,M54.5,Low back pain,2
+20191,1043,Z00.00,General adult exam without abnormal findings,1
+20192,1037,Z00.00,General adult exam without abnormal findings,1
+20192,1037,E11.9,Type 2 diabetes mellitus without complications,2
+20193,1061,Z00.00,General adult exam without abnormal findings,1
+20194,1056,I10,Essential (primary) hypertension,1
+20194,1056,E78.5,"Hyperlipidemia, unspecified",2
+20195,1003,Z00.00,General adult exam without abnormal findings,1
+20196,1063,Z00.00,General adult exam without abnormal findings,1
+20196,1063,R51.9,"Headache, unspecified",2
+20196,1063,K21.9,GERD without esophagitis,3
+20197,1019,F41.1,Generalized anxiety disorder,1
+20198,1023,M54.5,Low back pain,1
+20199,1029,K21.9,GERD without esophagitis,1
+20200,1030,M54.5,Low back pain,1
+20200,1030,F41.1,Generalized anxiety disorder,2
+20201,1039,E78.5,"Hyperlipidemia, unspecified",1
+20202,1025,J45.909,"Unspecified asthma, uncomplicated",1
+20202,1025,F41.1,Generalized anxiety disorder,2
+20203,1008,N39.0,"Urinary tract infection, site not specified",1
+20204,1016,K21.9,GERD without esophagitis,1
+20205,1072,I10,Essential (primary) hypertension,1
+20206,1001,E11.9,Type 2 diabetes mellitus without complications,1
+20206,1001,N39.0,"Urinary tract infection, site not specified",2
+20206,1001,I10,Essential (primary) hypertension,3
+20207,1005,I10,Essential (primary) hypertension,1
+20207,1005,R51.9,"Headache, unspecified",2
+20208,1003,M54.5,Low back pain,1
+20208,1003,R51.9,"Headache, unspecified",2
+20208,1003,F41.1,Generalized anxiety disorder,3
+20209,1065,J45.909,"Unspecified asthma, uncomplicated",1
+20210,1064,K21.9,GERD without esophagitis,1
+20210,1064,I10,Essential (primary) hypertension,2
+20211,1010,M54.5,Low back pain,1
+20211,1010,K21.9,GERD without esophagitis,2
+20212,1021,F41.1,Generalized anxiety disorder,1
+20213,1046,J45.909,"Unspecified asthma, uncomplicated",1
+20213,1046,N39.0,"Urinary tract infection, site not specified",2
+20214,1027,R51.9,"Headache, unspecified",1
+20214,1027,F41.1,Generalized anxiety disorder,2
+20214,1027,E11.9,Type 2 diabetes mellitus without complications,3
+20215,1066,R51.9,"Headache, unspecified",1
+20215,1066,F41.1,Generalized anxiety disorder,2
+20216,1041,I10,Essential (primary) hypertension,1
+20216,1041,J45.909,"Unspecified asthma, uncomplicated",2
+20217,1013,F41.1,Generalized anxiety disorder,1
+20218,1009,I10,Essential (primary) hypertension,1
+20219,1036,I10,Essential (primary) hypertension,1
+20219,1036,R51.9,"Headache, unspecified",2
+20219,1036,J45.909,"Unspecified asthma, uncomplicated",3
+20220,1058,F41.1,Generalized anxiety disorder,1
+20221,1054,F41.1,Generalized anxiety disorder,1
+20221,1054,M54.5,Low back pain,2
+20222,1078,K21.9,GERD without esophagitis,1
+20222,1078,M54.5,Low back pain,2
+20223,1014,F41.1,Generalized anxiety disorder,1
+20223,1014,R51.9,"Headache, unspecified",2
+20224,1053,N39.0,"Urinary tract infection, site not specified",1
+20224,1053,F41.1,Generalized anxiety disorder,2
+20224,1053,E11.9,Type 2 diabetes mellitus without complications,3
+20225,1020,I10,Essential (primary) hypertension,1
+20226,1075,E78.5,"Hyperlipidemia, unspecified",1
+20227,1016,F41.1,Generalized anxiety disorder,1
+20228,1070,E11.9,Type 2 diabetes mellitus without complications,1
+20229,1056,E11.9,Type 2 diabetes mellitus without complications,1
+20230,1058,K21.9,GERD without esophagitis,1
+20231,1004,J45.909,"Unspecified asthma, uncomplicated",1
+20231,1004,F41.1,Generalized anxiety disorder,2
+20232,1004,J45.909,"Unspecified asthma, uncomplicated",1
+20232,1004,N39.0,"Urinary tract infection, site not specified",2
+20232,1004,E78.5,"Hyperlipidemia, unspecified",3
+20233,1020,R51.9,"Headache, unspecified",1
+20234,1024,E11.9,Type 2 diabetes mellitus without complications,1
+20235,1026,I10,Essential (primary) hypertension,1
+20235,1026,Z00.00,General adult exam without abnormal findings,2
+20235,1026,J45.909,"Unspecified asthma, uncomplicated",3
+20236,1037,R51.9,"Headache, unspecified",1
+20237,1054,E11.9,Type 2 diabetes mellitus without complications,1
+20238,1021,K21.9,GERD without esophagitis,1
+20239,1074,Z00.00,General adult exam without abnormal findings,1
+20240,1046,R51.9,"Headache, unspecified",1
+20241,1004,J45.909,"Unspecified asthma, uncomplicated",1
+20241,1004,E78.5,"Hyperlipidemia, unspecified",2
+20241,1004,Z00.00,General adult exam without abnormal findings,3
+20242,1060,E11.9,Type 2 diabetes mellitus without complications,1
+20243,1057,F41.1,Generalized anxiety disorder,1
+20244,1045,K21.9,GERD without esophagitis,1
+20245,1020,E11.9,Type 2 diabetes mellitus without complications,1
+20246,1017,K21.9,GERD without esophagitis,1
+20246,1017,M54.5,Low back pain,2
+20247,1071,M54.5,Low back pain,1
+20247,1071,I10,Essential (primary) hypertension,2
+20248,1014,K21.9,GERD without esophagitis,1
+20248,1014,R51.9,"Headache, unspecified",2
+20249,1080,E78.5,"Hyperlipidemia, unspecified",1
+20250,1058,Z00.00,General adult exam without abnormal findings,1
+20250,1058,J45.909,"Unspecified asthma, uncomplicated",2
+20250,1058,M54.5,Low back pain,3
+20251,1055,J45.909,"Unspecified asthma, uncomplicated",1
+20251,1055,Z00.00,General adult exam without abnormal findings,2
+20252,1004,E78.5,"Hyperlipidemia, unspecified",1
+20252,1004,E11.9,Type 2 diabetes mellitus without complications,2
+20253,1024,J45.909,"Unspecified asthma, uncomplicated",1
+20254,1034,K21.9,GERD without esophagitis,1
+20255,1030,E78.5,"Hyperlipidemia, unspecified",1
+20256,1019,M54.5,Low back pain,1
+20256,1019,F41.1,Generalized anxiety disorder,2
+20257,1060,J45.909,"Unspecified asthma, uncomplicated",1
+20258,1060,I10,Essential (primary) hypertension,1
+20259,1019,E78.5,"Hyperlipidemia, unspecified",1
+20259,1019,E11.9,Type 2 diabetes mellitus without complications,2
+20260,1049,N39.0,"Urinary tract infection, site not specified",1
+20260,1049,M54.5,Low back pain,2
+20261,1063,M54.5,Low back pain,1
+20261,1063,N39.0,"Urinary tract infection, site not specified",2
+20261,1063,K21.9,GERD without esophagitis,3
+20262,1022,F41.1,Generalized anxiety disorder,1
+20263,1076,M54.5,Low back pain,1
+20263,1076,Z00.00,General adult exam without abnormal findings,2
+20264,1030,E11.9,Type 2 diabetes mellitus without complications,1
+20265,1058,M54.5,Low back pain,1
+20266,1031,E78.5,"Hyperlipidemia, unspecified",1
+20267,1064,K21.9,GERD without esophagitis,1
+20268,1048,F41.1,Generalized anxiety disorder,1
+20269,1045,I10,Essential (primary) hypertension,1
+20269,1045,F41.1,Generalized anxiety disorder,2
+20270,1055,K21.9,GERD without esophagitis,1
+20271,1063,R51.9,"Headache, unspecified",1
+20271,1063,E78.5,"Hyperlipidemia, unspecified",2
+20272,1047,R51.9,"Headache, unspecified",1
+20273,1075,K21.9,GERD without esophagitis,1
+20274,1057,E11.9,Type 2 diabetes mellitus without complications,1
+20275,1033,I10,Essential (primary) hypertension,1

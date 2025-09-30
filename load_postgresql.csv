@@ -1,0 +1,71 @@
+
+DROP TABLE IF EXISTS diagnoses;
+DROP TABLE IF EXISTS claims;
+DROP TABLE IF EXISTS visits;
+DROP TABLE IF EXISTS appointments;
+DROP TABLE IF EXISTS providers;
+DROP TABLE IF EXISTS patients;
+
+CREATE TABLE patients (
+  patient_id INT PRIMARY KEY,
+  first_name TEXT,
+  last_name TEXT,
+  sex CHAR(1),
+  age INT,
+  city TEXT,
+  primary_payer TEXT
+);
+
+CREATE TABLE providers (
+  provider_id INT PRIMARY KEY,
+  provider_name TEXT,
+  specialty TEXT
+);
+
+CREATE TABLE appointments (
+  appointment_id INT PRIMARY KEY,
+  patient_id INT REFERENCES patients(patient_id),
+  provider_id INT REFERENCES providers(provider_id),
+  scheduled_date TIMESTAMP,
+  appointment_date TIMESTAMP,
+  status TEXT CHECK (status IN ('Completed','No-Show','Canceled')),
+  check_in_time TIMESTAMP NULL,
+  duration_minutes INT NULL
+);
+
+CREATE TABLE visits (
+  visit_id INT PRIMARY KEY,
+  appointment_id INT REFERENCES appointments(appointment_id),
+  patient_id INT REFERENCES patients(patient_id),
+  provider_id INT REFERENCES providers(provider_id),
+  visit_start TIMESTAMP,
+  visit_minutes INT,
+  follow_up_recommended INT
+);
+
+CREATE TABLE diagnoses (
+  visit_id INT REFERENCES visits(visit_id),
+  patient_id INT REFERENCES patients(patient_id),
+  icd10_code TEXT,
+  diagnosis_description TEXT,
+  diagnosis_rank INT,
+  PRIMARY KEY (visit_id, icd10_code, diagnosis_rank)
+);
+
+CREATE TABLE claims (
+  claim_id INT PRIMARY KEY,
+  visit_id INT REFERENCES visits(visit_id),
+  patient_id INT REFERENCES patients(patient_id),
+  provider_id INT REFERENCES providers(provider_id),
+  billed_amount NUMERIC(10,2),
+  paid_amount NUMERIC(10,2),
+  write_off NUMERIC(10,2),
+  primary_payer TEXT
+);
+
+\copy patients FROM '/mnt/data/healthcare_sql_project/patients.csv' WITH (FORMAT csv, HEADER true);
+\copy providers FROM '/mnt/data/healthcare_sql_project/providers.csv' WITH (FORMAT csv, HEADER true);
+\copy appointments FROM '/mnt/data/healthcare_sql_project/appointments.csv' WITH (FORMAT csv, HEADER true);
+\copy visits FROM '/mnt/data/healthcare_sql_project/visits.csv' WITH (FORMAT csv, HEADER true);
+\copy diagnoses FROM '/mnt/data/healthcare_sql_project/diagnoses.csv' WITH (FORMAT csv, HEADER true);
+\copy claims FROM '/mnt/data/healthcare_sql_project/claims.csv' WITH (FORMAT csv, HEADER true);
